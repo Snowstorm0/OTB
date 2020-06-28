@@ -1,0 +1,19 @@
+
+Basketball 481
+Bird1 181 一般
+Board 243 失败
+David 291-339 失败
+Football 154-196 失败
+Freeman4 234-247 失败
+Girl2 101-281 883-919 1270-1318
+MotorRolling 135
+Skating1 170
+Skating2-1 393
+Skating2-2 393 交换
+Walking2 198
+
+
+
+
+
+
