@@ -8,8 +8,8 @@ trackersVIVID={struct('name','CCOT','namePaper','CCOT'),...%gray-25%
     struct('name','CIResNet22-FC','namePaper','SiamDW'),...%Turquoise
     struct('name','siamfc3s','namePaper','SiamFC'),...%Turquoise
     struct('name','SIAMRPN','namePaper','SiamRPN'),...%orange
-    struct('name','SiamRPN++','namePaper','SiamRPN++'),...%Turquoise
-    struct('name','SiamGAN','namePaper','APSiamRPN')%purple
+    struct('name','SiamRPN++','namePaper','SiamRPN++'),...%SiamRPN++ is real algorithm
+    struct('name','SiamGAN','namePaper','SiamGAN')%SiamGAN is real algorithm
 };
 
 trackers = [trackersVIVID];
