@@ -8,10 +8,11 @@ thresholdSetError = 0:50;
 
 switch evalType
     case {'SRE', 'OPE'}
-%         rpAll=['.\results\results_SRE_CVPR13\'];
+        % rpAll=['.\results\results_SRE_CVPR13\'];
         rpAll=['.\results\new\'];
     case {'TRE'}
-        rpAll=['.\results\results_TRE_CVPR13\'];
+        % rpAll=['.\results\results_TRE_CVPR13\'];
+        rpAll=['.\results\new\'];
 end
 
 for idxSeq=1:length(seqs)

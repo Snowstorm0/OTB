@@ -5,7 +5,9 @@ warning off all;
 
 addpath('./util');
 
-pathRes = '.\results\results_SRE_CVPR13\';% The folder containing the tracking results
+% pathRes = '.\results\results_SRE_CVPR13\';% The folder containing the tracking results
+pathRes = '.\results\new\';
+
 pathDraw = '.\tmp\imgs\';% The folder that will stores the images with overlaid bounding box
 
 rstIdx = 1;
