@@ -9,6 +9,7 @@ addpath('./util');
 pathRes = '.\results\new\';
 
 pathDraw = '.\tmp\imgs\';% The folder that will stores the images with overlaid bounding box
+% pathDraw = 'E:\Program\OTB\DrawBB\';% The folder that will stores the images with overlaid bounding box
 
 rstIdx = 1;
 
